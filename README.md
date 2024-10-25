@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# Marketplace
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+# Deployed contract `0x3F23bb81435168cB31B602064F96fb95DF21e6E8`
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
